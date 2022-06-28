@@ -1,0 +1,23 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+.form-box {
+    background-color: wheat;
+    border-radius: 10%;
+    width: 23%;
+    height: 23pc;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 38%;
+    margin-top: 8%;
+    
+}
+.small{
+
+}
+a{
+    color: white;
+    justify-content: space-around;
+}
